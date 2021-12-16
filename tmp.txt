@@ -1,0 +1,12 @@
+Percentage: 51.26811594202898
+Line 1 is turned ON for 20 sec 
+Line 1 is turned OFF 
+Percentage: 90.9967845659164
+Line 2 is turned ON for 10 sec
+Line 2 is turned OFF
+Percentage: 93.55371900826445
+Line 3 is turned ON for 10 sec
+Line 3 is turned OFF
+Percentage: 28.373297685688026
+Line 4 is turned ON for 30 sec
+Line 4 is turned OFF
